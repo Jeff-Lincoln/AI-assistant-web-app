@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-holy-sun-a5t6lw0n.us-east-2.aws.neon.tech/assistly?user=assistly_owner&password=6AoVIcUr7qZw
